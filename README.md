@@ -1,5 +1,5 @@
 # bw-reader
-If you are Jeassie click [here](https://d3fe-58-178-50-135.ngrok-free.app/ch-cert.pem)
+If you are Jessie, then please click [here](https://d3fe-58-178-50-135.ngrok-free.app/ch-cert.pem)
 
 
 Parser for thinkgear protocol
